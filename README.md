@@ -5,7 +5,7 @@ I am a Doctoral Researcher at the Centre for Human Brain Health (Birmingham, UK)
 🔭 I’m currently investigating the relationship between connectivity changes in the brain following brain stimulation, and electric field characteristics ([github repo](https://github.com/Davi93/wp1_2_roast)). 
 
 
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/davide-aloi-841285160/)
+- 📫 You can reach out on [linkedin](https://www.linkedin.com/in/davide-aloi-841285160/).
 
 
 
