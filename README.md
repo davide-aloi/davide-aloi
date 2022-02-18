@@ -7,11 +7,14 @@ I am a Doctoral Researcher at the Centre for Human Brain Health (Birmingham, UK)
 
 
 :newspaper: Here is the list of my publications: 
-● Aloi D., Jalali R., Tilsley P., Miall R. C., & Fernández-Espejo D. (2021). TDCS modulates effective connectivity during motor command following;
+
+- Aloi D., Jalali R., Tilsley P., Miall R. C., & Fernández-Espejo D. (2021). TDCS modulates effective connectivity during motor command following;
 a potential therapeutic target for disorders of consciousness. NeuroImage
-● Aloi D., della Rocchetta AI., Ditchfield A., Coulborn S., and Fernández-Espejo D. (2021) Therapeutic Use of Transcranial Direct Current
+
+- Aloi D., della Rocchetta AI., Ditchfield A., Coulborn S., and Fernández-Espejo D. (2021) Therapeutic Use of Transcranial Direct Current
 Stimulation in the Rehabilitation of Prolonged Disorders of Consciousness. Frontiers in Neurology
-● Fernández-Espejo D., Aloi D., della Rocchetta AI., Hoad D., Greenwood R., Playford, E., Cruse D. (2020). Exploring the neural, behavioural,
+
+- Fernández-Espejo D., Aloi D., della Rocchetta AI., Hoad D., Greenwood R., Playford, E., Cruse D. (2020). Exploring the neural, behavioural,
 and clinical effects of transcranial direct current stimulation in patients with a Prolonged Disorder of Consciousness; protocol for a
 double-blind randomised crossover feasibility study. Research Square
 
