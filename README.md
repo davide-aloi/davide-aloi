@@ -5,6 +5,10 @@ I am a Doctoral Researcher at the Centre for Human Brain Health (Birmingham, UK)
 🔭 I’m currently investigating the relationship between connectivity changes in the brain following brain stimulation, and electric field characteristics. 
 
 
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/davide-aloi-841285160/)
+
+
+
 
 :newspaper: Here is the list of my publications: 
 
