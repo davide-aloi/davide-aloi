@@ -15,7 +15,7 @@ I am a Doctoral Researcher at the Centre for Human Brain Health (Birmingham, UK)
 
 
 
-:newspaper: ## Here is the list of my publications: 
+## :newspaper: Publications
 
 - Aloi D., Jalali R., Tilsley P., Miall R. C., & Fernández-Espejo D. (2021). TDCS modulates effective connectivity during motor command following;
 a potential therapeutic target for disorders of consciousness. NeuroImage
