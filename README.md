@@ -2,7 +2,9 @@
 
 I am a Doctoral Researcher at the Centre for Human Brain Health (Birmingham, UK) working in the field of neuroimaging. I am interested in computer programming, health data science and data visualisation. At the moment, I am working on Disorders of Consciousness (such as vegetative state or coma), and I am studying new possible therapeutic approaches using techniques as MRI, EEG and non-invasive brain stimulation. 
 
-🔭 I’m currently investigating the relationship between connectivity changes in the brain following brain stimulation, and electric field characteristics ([github repo](https://github.com/Davi93/wp1_2_roast)). 
+Ongoing projects:
+- I’m currently investigating the relationship between connectivity changes in the brain following brain stimulation, and electric field characteristics ([github repo](https://github.com/Davi93/wp1_2_roast)). 
+- I am organising all the functions and scripts I wrote during my PhD [here](https://github.com/Davi93/mri_scripts).  
 
 
 - 📫 You can reach out on [linkedin](https://www.linkedin.com/in/davide-aloi-841285160/).
