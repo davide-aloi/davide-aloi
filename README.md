@@ -8,8 +8,8 @@ I am a Doctoral Researcher at the Centre for Human Brain Health (Birmingham, UK)
 
 
 
-## Contacts
-- 📫 You can reach out on [linkedin](https://www.linkedin.com/in/davide-aloi-841285160/).
+## 📫 Contacts
+- You can reach out on [linkedin](https://www.linkedin.com/in/davide-aloi-841285160/).
 
 
 
