@@ -4,7 +4,7 @@ I am a Doctoral Researcher at the Centre for Human Brain Health (Birmingham, UK)
 
 ## Ongoing projects:
 - I am currently investigating the relationship between connectivity changes in the brain following brain stimulation, and electric field characteristics estimated by MRI-derived models ([repository](https://github.com/Davi93/wp1_2_roast)). 
-- I am also reorganising all the functions and scripts I wrote during my PhD ([repository](https://github.com/Davi93/mri_scripts)). These are mainly MRI utilities or functions to visualise data / results from MRI/fMRI analyses. 
+- I am also reorganising all the functions and scripts I wrote during my PhD ([repository](https://github.com/Davi93/mri_scripts)). These are mainly MRI utilities or functions to visualise data / results from MRI/fMRI analyses. I'm still working on this.
 - [Brain pathology classification using FastAI](https://github.com/Davi93/idmlp_project): this is a very simple project for the course Introduction to Deep (Machine) Learning for Physicists 2022 (University of Warwick).
 
 
