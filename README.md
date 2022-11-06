@@ -5,13 +5,13 @@ I am currently working as a researcher at Epam Systems - Research and Insights. 
 ## Some PhD projects:
 - I investigated the relationship between connectivity changes in the brain following brain stimulation (tDCS), and electric field characteristics estimated by MRI-derived models ([repository](https://github.com/Davi93/wp1_2_roast)). 
 - I am also reorganising all the functions and scripts I wrote during my PhD ([repository](https://github.com/Davi93/mri_scripts)). These are mainly MRI utilities or functions to visualise data / results from MRI/fMRI analyses. I will likely work on this project more once I finish with my PhD thesis.
+
+## Other projects:
 - [Brain pathology classification using FastAI](https://github.com/Davi93/idmlp_project): this is a very simple project for the course Introduction to Deep (Machine) Learning for Physicists 2022 (University of Warwick).
 
 
 ## 📫 Contacts
 - You can reach out on [linkedin](https://www.linkedin.com/in/davide-aloi-841285160/).
-
-
 
 ## :newspaper: Publications
 
