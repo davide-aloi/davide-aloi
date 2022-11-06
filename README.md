@@ -3,8 +3,8 @@
 I am currently working as a researcher at Epam Systems - Research and Insights. At the same time, I am finishing my PhD at the Centre for Human Brain Health (Birmingham, UK) in the field of neuroimaging and neuroscience. I am interested in computer programming, human-computer interaction and data science. During my PhD, I worked on Disorders of Consciousness (such as vegetative state or coma), and on new possible therapeutic approaches using techniques as MRI, EEG and non-invasive brain stimulation. 
 
 ## Some PhD projects:
-- I am currently investigating the relationship between connectivity changes in the brain following brain stimulation, and electric field characteristics estimated by MRI-derived models ([repository](https://github.com/Davi93/wp1_2_roast)). 
-- I am also reorganising all the functions and scripts I wrote during my PhD ([repository](https://github.com/Davi93/mri_scripts)). These are mainly MRI utilities or functions to visualise data / results from MRI/fMRI analyses. I'm still working on this.
+- I investigated the relationship between connectivity changes in the brain following brain stimulation (tDCS), and electric field characteristics estimated by MRI-derived models ([repository](https://github.com/Davi93/wp1_2_roast)). 
+- I am also reorganising all the functions and scripts I wrote during my PhD ([repository](https://github.com/Davi93/mri_scripts)). These are mainly MRI utilities or functions to visualise data / results from MRI/fMRI analyses. I will likely work on this project more once I finish with my PhD thesis.
 - [Brain pathology classification using FastAI](https://github.com/Davi93/idmlp_project): this is a very simple project for the course Introduction to Deep (Machine) Learning for Physicists 2022 (University of Warwick).
 
 
