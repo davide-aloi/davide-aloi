@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Cognitive Neuroscientist currently working as a Researcher at Epam Systems - Research and Insights, focusing on biometric research. I am also a final year PhD candidate at the Centre for Human Brain Health (Birmingham, UK), field of neuroimaging and neuroscience. I am interested in neuroscience, the application of biometrics in human-computer interaction, and data science. During my PhD, I worked on Disorders of Consciousness (such as vegetative state or coma), and on new possible therapeutic approaches using techniques as MRI, EEG and non-invasive brain stimulation. 
+I am a Cognitive Neuroscientist :brain: currently working as a Researcher at Epam Systems - Research and Insights, focusing on biometric research. I am also a final year PhD candidate at the Centre for Human Brain Health (Birmingham, UK), field of neuroimaging and neuroscience. I am interested in neuroscience, the application of biometrics in human-computer interaction, and data science. During my PhD, I worked on Disorders of Consciousness (such as vegetative state or coma), and on new possible therapeutic approaches using techniques as MRI, EEG and non-invasive brain stimulation. 
 
 ## Some PhD projects:
 - I investigated the relationship between connectivity changes in the brain following brain stimulation (tDCS), and electric field characteristics as estimated by MRI-derived models ([repository](https://github.com/Davi93/wp1_2_roast)). 
