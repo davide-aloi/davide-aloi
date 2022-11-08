@@ -2,7 +2,7 @@
 
 I am a Cognitive Neuroscientist (:brain:) currently working as a Researcher at Epam Systems - Research and Insights, focusing on biometric research (i.e., EEG, ECG, eye-tracking, GSR/EDA), and its implementation in HCI research. I am also a final year PhD candidate at the Centre for Human Brain Health (Birmingham, UK), field of neuroimaging and neuroscience. I am interested in neuroscience, the application of biometrics in human-computer interaction, and data science. During my PhD, I worked on Disorders of Consciousness (such as vegetative state or coma), and on new possible therapeutic approaches using techniques as MRI, EEG and non-invasive brain stimulation. 
 
-## Some PhD projects:
+## Last PhD projects:
 - I investigated the relationship between connectivity changes in the brain following brain stimulation (tDCS), and electric field characteristics as estimated by MRI-derived models ([repository](https://github.com/Davi93/wp1_2_roast)). 
 - I am also reorganising all the functions and scripts I wrote during my PhD ([repository](https://github.com/Davi93/mri_scripts)). These are mainly MRI utilities or functions to visualise data / results from MRI/fMRI analyses. I will likely work on this project more once I finish with my PhD thesis.
 
