@@ -15,7 +15,7 @@ I am a Cognitive Neuroscientist (:brain:) currently working as a Researcher at E
 
 ## :newspaper: Publications
 
-- Aloi, D., Jalali, R., Calzolari, S., Lafanechere, M., Miall, R. C., & Fernández-Espejo, D. (2022). Multi-session tDCS paired with passive mobilisation increases thalamo-cortical coupling during command following [Preprint]. Neuroscience. https://doi.org/10.1101/2022.11.22.517479
+- Aloi, D., Jalali, R., Calzolari, S., Lafanechere, M., Miall, R. C., & Fernández-Espejo, D. (2023). Multi-session tDCS paired with passive mobilisation increases thalamo-cortical coupling during command following. Neuroimage.
 
 - Aloi D., Jalali R., Tilsley P., Miall R. C., & Fernández-Espejo D. (2021). TDCS modulates effective connectivity during motor command following;
 a potential therapeutic target for disorders of consciousness. NeuroImage
