@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I am a Cognitive Neuroscientist (:brain:) currently working as a Researcher at Epam Systems - Research and Insights, focusing on data analysis of biometric research (i.e., EEG) with python./ I did my PhD at the Centre for Human Brain Health (Birmingham, UK), field of neuroimaging and neuroscience. I am mainly interested in neuroscience and clinical data science. During my PhD, I worked on Disorders of Consciousness (such as vegetative state or coma), and on new possible therapeutic approaches using techniques as MRI, EEG and non-invasive brain stimulation. 
+I am a Cognitive Neuroscientist (:brain:) currently working as a Researcher at Epam Systems - Research and Insights, focusing on data analysis of biometric research (i.e., EEG) with python.
 
-## Last PhD projects:
+I have a PhD in the field of neuroscience and neuroimaging (University of Birmingham). During my PhD, I worked at the Centre for Human Brain Health and at the Wellington Hospital (London) and explored the effects of Brain stimulation on the motor network, and as a therapeutic tool for disorders of consciousness (i.e., vegetative state). My projects involved both healthy and clinical data (functional MRI, structural MRI, EEG, clinical scales).
+
+
+## Last PhD project:
 - I investigated the relationship between connectivity changes in the brain following brain stimulation (tDCS), and electric field characteristics as estimated by MRI-derived models ([repository](https://github.com/Davi93/wp1_2_roast)). 
 - I am also reorganising all the functions and scripts I wrote during my PhD ([repository](https://github.com/Davi93/mri_scripts)). These are mainly MRI utilities or functions to visualise data / results from MRI/fMRI analyses. I will likely work on this project more once I finish with my PhD thesis.
-
-## Other projects:
-- [Brain pathology classification using FastAI](https://github.com/Davi93/idmlp_project): this is a very simple project for the course Introduction to Deep (Machine) Learning for Physicists 2022 (University of Warwick).
 
 
 ## 📫 Contacts
