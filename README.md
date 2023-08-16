@@ -11,7 +11,7 @@ I have a PhD in the field of neuroscience and neuroimaging (University of Birmin
 
 
 ## 📫 Contacts
-- You can reach out on [linkedin](https://www.linkedin.com/in/davide-aloi-841285160/](https://www.linkedin.com/in/davide-aloi-phd-841285160).
+- You can reach out on [linkedin](https://www.linkedin.com/in/davide-aloi-phd-841285160/).
 
 ## :newspaper: Publications
 
