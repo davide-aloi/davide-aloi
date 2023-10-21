@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am a Neuroscientist :brain: currently working as a Research Scientist at the software engineering firm Epam Systems, focusing on analysis of biometric data (i.e., EEG) with python.
-
 I have a PhD in the field of neuroscience and neuroimaging (University of Birmingham). During my PhD, I worked at the Centre for Human Brain Health and at the Wellington Hospital (London) and explored the effects of Brain stimulation on the motor network, and as a therapeutic tool for disorders of consciousness (i.e., vegetative state). My projects involved both healthy and clinical data analyses (functional MRI, structural MRI, EEG, clinical scales).
 
 
