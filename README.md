@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have a PhD in the field of neuroscience and neuroimaging (University of Birmingham). During my PhD, I worked at the Centre for Human Brain Health and at the Wellington Hospital (London) and explored the effects of Brain stimulation on the motor network, and as a therapeutic tool for disorders of consciousness (i.e., vegetative state). My projects involved both healthy and clinical data analyses (functional MRI, structural MRI, EEG, clinical scales).
+I am a medical data scientist with a PhD in the field of neuroscience and neuroimaging (University of Birmingham). My PhD projects involved both healthy and clinical data analyses (functional MRI, structural MRI, EEG, clinical scales).
 
 
 ## Last PhD project:
