@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a medical data scientist with a PhD in the field of neuroscience and neuroimaging (University of Birmingham). I currently work at Lifebit, focusing on clinical data engineering.
+I am a medical data scientist with a PhD in the field of neuroscience and neuroimaging (University of Birmingham). I currently work at Lifebit, focusing on clinical data engineering and the OMOP cdm.
 
 My PhD projects involved both healthy and clinical data analyses (functional MRI, structural MRI, EEG, clinical scales).
 
