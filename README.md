@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am a medical data scientist with a PhD in the field of neuroscience and neuroimaging (University of Birmingham). I currently work at Lifebit, focusing on clinical data engineering and the OMOP cdm.
+I am a Health Data Scientist, part of the Data Models and Pipelines team, focusing on developing and optimising medical data ETL pipelines (using Nextflow, Python, Bash, R, AWS) and on medical data standardisation with the OMOP Common Data Model, FHIR and medical ontologies (SNOMED, ICD10, etc).
+
 
 My PhD projects involved both healthy and clinical data analyses (functional MRI, structural MRI, EEG, clinical scales).
 
