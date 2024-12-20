@@ -1,15 +1,12 @@
 ### Hi there 👋
 
-I am a Health Data Scientist, part of the Data Models and Pipelines team, focusing on developing and optimising medical data ETL pipelines (using Nextflow, Python, Bash, R, AWS) and on medical data standardisation with the OMOP Common Data Model, FHIR and medical ontologies (SNOMED, ICD10, etc).
+I am a Health Data Scientist at Lifebit, focusing on developing and optimising medical data engineering pipelines (using Nextflow, Python, Bash, R, AWS) and on clinical data standardisation with the OMOP Common Data Model, FHIR and medical ontologies (SNOMED, ICD10, etc).
 
-
-My PhD projects involved both healthy and clinical data analyses (functional MRI, structural MRI, EEG, clinical scales).
+My PhD projects involved both healthy and clinical data (functional MRI, structural MRI, EEG, clinical scales).
 
 
 ## Last PhD project:
-- I investigated the relationship between connectivity changes in the brain following brain stimulation (tDCS), and electric field characteristics as estimated by MRI-derived models ([repository](https://github.com/Davi93/wp1_2_roast)). 
-- I am also reorganising all the functions and scripts I wrote during my PhD ([repository](https://github.com/Davi93/mri_scripts)). These are mainly MRI utilities or functions to visualise data / results from MRI/fMRI analyses. I will likely work on this project more once I finish with my PhD thesis.
-
+- I investigated the relationship between connectivity changes in the brain following brain stimulation (tDCS), and electric field characteristics as estimated by MRI-derived models ([repository](https://github.com/Davi93/wp1_2_roast)).
 
 ## 📫 Contacts
 - You can reach out on [linkedin](https://www.linkedin.com/in/davide-aloi-phd-841285160/).
