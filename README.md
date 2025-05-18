@@ -5,8 +5,8 @@ I am a Health Data Scientist at Lifebit, focusing on developing and optimising m
 My PhD projects involved both healthy and clinical data (functional MRI, structural MRI, EEG, clinical scales).
 
 
-## Last PhD project:
-- I investigated the relationship between connectivity changes in the brain following brain stimulation (tDCS), and electric field characteristics as estimated by MRI-derived models ([repository](https://github.com/Davi93/wp1_2_roast)).
+## Last projects:
+- [Step-by-step guide to generating tDCS-induced electric field models from MRI scans using ROAST](https://github.com/davide-aloi/neuroscience-workshop-Innsbruck-2025)
 
 ## 📫 Contacts
 - You can reach out on [linkedin](https://www.linkedin.com/in/davide-aloi-phd-841285160/).
