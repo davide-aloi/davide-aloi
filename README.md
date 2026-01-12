@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a Health Data Scientist at Lifebit, focusing on developing and optimising medical data engineering pipelines (using Nextflow, Python, Bash, R, AWS) and on clinical data standardisation with the OMOP Common Data Model, FHIR and medical ontologies (SNOMED, ICD10, etc).
+I am a Medical Data Scientist at Lifebit, focusing on developing and optimising medical data engineering pipelines (using Nextflow, Python, Bash, R, AWS) and on clinical data standardisation with the OMOP Common Data Model, HL7, EPIC, FHIR and medical ontologies (SNOMED, ICD10, etc).
 
-My PhD projects involved both healthy and clinical data (functional MRI, structural MRI, EEG, clinical scales).
+My previous PhD projects involved both healthy and clinical data (functional MRI, structural MRI, EEG, clinical scales).
 
 
 ## Last projects:
