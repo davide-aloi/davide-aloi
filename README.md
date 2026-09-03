@@ -1,9 +1,25 @@
 ### Hi there 👋
 
-I am a Medical Data Scientist at Lifebit, focusing on developing and optimising medical data engineering pipelines (using Nextflow, Python, Bash, R, AWS) and on clinical data standardisation with the OMOP Common Data Model, HL7, EPIC, FHIR and medical ontologies (SNOMED, ICD10, etc).
+I'm a **Senior Engineer in Medical Data Engineering**, working at the intersection of **healthcare data, AI agents, and production data platforms**.
 
-My previous PhD projects involved both healthy and clinical data (functional MRI, structural MRI, EEG, clinical scales).
 
+My work focuses on:
+
+- Building and optimising large-scale clinical data pipelines with **Python, Nextflow, SQL, Bash, Docker and AWS**
+- Standardising healthcare data into **OMOP CDM and FHIR**, including data from **HL7 v2, Epic and clinical/research datasets**
+- Developing terminology and concept-mapping workflows using **SNOMED CT, ICD, Athena/OHDSI and related biomedical vocabularies**
+- Building **LLM-powered and agentic workflows** for healthcare data, including prompt engineering, tool use, evaluation and observability
+- Developing **MCP servers and tools** to connect AI agents with biomedical and clinical data services
+- Using **Langfuse** for LLM tracing, evaluation, prompt management and workflow observability
+- Designing data-quality, profiling, validation and source-to-standard transformation systems
+
+I have a **PhD in Cognitive Neuroscience and Neuroimaging**, with research experience across functional MRI, structural MRI, EEG and clinical data.
+
+#### Main technologies
+
+`Python` `SQL` `PostgreSQL` `Nextflow` `FastAPI` `Docker` `AWS`  
+`LLMs` `AI Agents` `MCP` `Langfuse` `Prompt Engineering`  
+`OMOP CDM` `FHIR` `HL7` `Epic` `SNOMED CT` `ICD` `OHDSI`
 
 ## Last projects:
 - [Step-by-step guide to generating tDCS-induced electric field models from MRI scans using ROAST](https://github.com/davide-aloi/neuroscience-workshop-Innsbruck-2025)
