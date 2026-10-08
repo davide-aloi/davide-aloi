@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm a **Senior Engineer in Medical Data Engineering**, working at the intersection of **healthcare data, AI agents, and production data platforms**. I have a background in Neuroscience and obtained my PhD at the Centre for Human Of Brain Health in Birmingham.
-
+I'm a **Senior Engineer in Medical Data Engineering**, working at the intersection of **healthcare data, AI agents, and production data platforms**.
 
 My work focuses on:
 
